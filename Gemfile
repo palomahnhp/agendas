@@ -44,6 +44,7 @@ gem 'premailer-rails'
 gem 'wash_out'
 gem 'rubyntlm'
 gem 'wash_out'
+gem 'rubyntlm'
 
 group :development do
   gem 'better_errors', '~> 2.1.1'
